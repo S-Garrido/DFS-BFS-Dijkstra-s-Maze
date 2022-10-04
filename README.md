@@ -1,1 +1,1 @@
-# DFS-BFS-Dijkstra-s-Maze
+# Maze-Solver-Strategies
