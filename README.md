@@ -13,4 +13,3 @@ This is a collection of maze-solving algorithms that I made for my Object-Orient
   - DoBFS()
   - DoDFS()
   - DoDijsktra()
-  - 
