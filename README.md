@@ -3,13 +3,13 @@ This is a collection of maze-solving algorithms that I made for my Object-Orient
 
 - MazeGraph.java
   - MazeGraph()
- - WeightedGraph.java
-  - weightedGraph()
-  - addObserver()
-  - addVertex()
-  - containsVertex()
-  - addEdge()
-  - getWeight()
-  - DoBFS()
-  - DoDFS()
-  - DoDijsktra()
+  - WeightedGraph.java
+   - weightedGraph()
+   - addObserver()
+   - addVertex()
+   - containsVertex()
+   - addEdge()
+   - getWeight()
+   - DoBFS()
+   - DoDFS()
+   - DoDijsktra()
